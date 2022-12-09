@@ -1,3 +1,15 @@
+-To Run Project you Must Run Some Commands:
+
+1- Composer install
+2- npm install
+3- npm run dev
+4- cp .env.example  .env  
+5- php artisan key:generate
+6- write DB (name,us name ,pass) on .env file
+7- php artisan migrate  
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
